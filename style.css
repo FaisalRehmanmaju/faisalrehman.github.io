@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+.btn-danger
+{
+	background-color:#06C;
+	
+}
+
+.btn-primary
+{
+	background-color:yellow;
+	
+	}
+	.btn-primary:hover
+{
+	background-color:blue;
+	
+	}
+.col
+{
+	background-color:yellow;
+	}
